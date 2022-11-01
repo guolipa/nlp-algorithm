@@ -4,7 +4,7 @@
 
 - `task`文件夹下是各类任务的程序代码。
 
-- `pretrained_models`是存储BERT等预训练模型的文件夹，需要使用到预训练模型时，需要在https://huggingface.co/中下载或程序中加载相应的预训练模型参数存储在相应文件夹下。比如使用`chinese-bert-wwm-ext`模型，将模型的参数放置在件`/task/pretrained_models/chinese-bert-wwm-ext`文件夹下。
+- `pretrained_models`是存储BERT等预训练模型的文件夹，需要使用到预训练模型时，[huggingface\transformers](https://huggingface.co/ )。比如使用`chinese-bert-wwm-ext`模型，将模型的参数放置在件`/task/pretrained_models/chinese-bert-wwm-ext`文件夹下。
 
 ```
 nlp-algorithm
