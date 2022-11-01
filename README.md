@@ -1,6 +1,32 @@
 # nlp-algorithm
 
+这是一个nlp算法实验项目, 在不断更新中。项目的整体结构如下所示：
+
+- `task`文件夹下是各类任务的程序代码。
+
+- `pretrained_models`是存储BERT等预训练模型的文件夹，需要使用到预训练模型时，需要在https://huggingface.co/中下载或程序中加载相应的预训练模型参数存储在相应文件夹下。比如使用`chinese-bert-wwm-ext`模型，将模型的参数放置在件`/task/pretrained_models/chinese-bert-wwm-ext`文件夹下。
+
+```
+nlp-algorithm
+│
+├── task                                      # nlp任务
+│   ├── named_entity_recognition              # 命名实体识别
+│   ├──......                                 # 其他任务                                  
+│   ├── pretrained_models                     # 预训练模型
+│   │   ├──save
+│   │   │   ├──bert-base-chinese
+│   │   │   ├──chinese-bert-wwm-ext
+|   │   │   │   ├──config.json
+|   │   │   │   ├──vocab.txt
+|   │   │   │   ├──pytorch_model.bin
+│   │   │   ├──chinese-roberta-wwm-ext
+│   │   ├──model.py   
+```
+
+
+
 ## Named Entity Recognition
+
 https://zhuanlan.zhihu.com/p/561776148
 ```
 named_entity_recognition
