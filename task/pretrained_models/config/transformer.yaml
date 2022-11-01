@@ -1,0 +1,30 @@
+model_type: BERT
+
+# 语言类型 {zh: 中文, en: 英文}
+lang: zh
+
+train: True
+mlm: True
+mlm_probability: 0.15
+num_train_epochs: 3
+train_batch_size: 8
+save_strategy: 'epoch'
+save_steps: 10_000
+save_total_limit: 10
+no_cuda: False
+model_parallel: False
+
+# 模型名称
+model_name: 'bert-base-uncased'
+# 存储模型的路径
+model_save_dir: ''
+model_out_dir: ''
+overwrite_output_dir: True
+
+# 训练数据存储的路径
+data_save_dir: ''
+max_sequence_len: 512
+input_size: 768     # 这个值由bert得到
+hidden_size: 100    # 必须为偶数
+num_layers: 1
+dropout: 0.3
