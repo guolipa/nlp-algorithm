@@ -1,0 +1,3578 @@
+[
+    {
+        "text": "苏某是黄某的表弟，也是一名吸毒人员。",
+        "spo_list": [
+            {
+                "predicate": "表弟",
+                "subject": "黄某",
+                "subject_type": "人物",
+                "object": "苏某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "毛泽东经常于假日和蔡和森、陈昌、张昆弟、罗学瓒等五六位好友，到“板仓杨寓”学习讨论各种问题，或谈治学、做人之道，或纵论天下大事，探求救国教民的真理，常常一攀谈就是几个小时。",
+        "spo_list": [
+            {
+                "predicate": "朋友",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "陈昌",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "陈昌",
+                "subject_type": "人物",
+                "object": "张昆弟",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "陈昌",
+                "subject_type": "人物",
+                "object": "罗学瓒",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "蔡和森",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "蔡和森",
+                "subject_type": "人物",
+                "object": "罗学瓒",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "蔡和森",
+                "subject_type": "人物",
+                "object": "张昆弟",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "罗学瓒",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "张昆弟",
+                "subject_type": "人物",
+                "object": "罗学瓒",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "蔡和森",
+                "subject_type": "人物",
+                "object": "陈昌",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "张昆弟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "经查，该团伙8名成员大多数是亲戚关系，有些是堂兄弟，而陈某和陈某某则是双胞胎兄弟。",
+        "spo_list": [
+            {
+                "predicate": "兄弟",
+                "subject": "陈某",
+                "subject_type": "人物",
+                "object": "陈某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "新华社北京10月11日电10月10日，中共中央总书记、国家主席习近平分别致电古共中央第一书记劳尔·卡斯特罗和古巴新当选的国家主席迪亚斯—卡内尔，祝贺古巴第九届全国人民政权代表大会特别会议成功召开，并选举产生国家主席。",
+        "spo_list": [
+            {
+                "predicate": "致电通信",
+                "subject": "劳尔·卡斯特罗",
+                "subject_type": "人物",
+                "object": "迪亚斯—卡内尔",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "劳尔·卡斯特罗",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "苏东坡和父亲苏洵，弟弟苏辙，三人在宋代文坛上皆享盛名，后人称之为\"三苏\"，皆列入唐宋古文八大家。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "苏洵",
+                "subject_type": "人物",
+                "object": "苏辙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "弟弟",
+                "subject": "苏东坡",
+                "subject_type": "人物",
+                "object": "苏辙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "生父",
+                "subject": "苏东坡",
+                "subject_type": "人物",
+                "object": "苏洵",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1993年，侯耀文娶了第二任妻子张某，5年后生下了第二个女儿侯懿珊，在2004年二人离婚。",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "张某",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "侯耀文",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "前妻",
+                "subject": "侯耀文",
+                "subject_type": "人物",
+                "object": "张某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "新华社哈拉雷１１月２０日电津巴布韦国防军司令康斯坦丁·奇温加当地时间２０日晚间召开记者会，表示两周前被解职的原副总统埃默森·姆南加古瓦很快将回到津巴布韦，并与总统穆加贝当面会谈。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "埃默森·姆南加古瓦",
+                "subject_type": "人物",
+                "object": "穆加贝",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "郭荣与刘秉忠交好，便将少年郭守敬送到刘秉忠门下深造。",
+        "spo_list": [
+            {
+                "predicate": "学生",
+                "subject": "刘秉忠",
+                "subject_type": "人物",
+                "object": "郭守敬",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "郭荣",
+                "subject_type": "人物",
+                "object": "刘秉忠",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被不起诉人刘某某在来安县体育巷西巷口，遇到前女友蒋某某与其未婚夫被害人陆某某，因之前双方便有矛盾，被不起诉人刘某某便上前殴打被害人陆某某，将被害人陆某某的鼻子打伤。",
+        "spo_list": [
+            {
+                "predicate": "殴打伤害",
+                "subject": "刘某某",
+                "subject_type": "人物",
+                "object": "陆某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "前任",
+                "subject": "刘某某",
+                "subject_type": "人物",
+                "object": "蒋某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "未婚夫",
+                "subject": "蒋某某",
+                "subject_type": "人物",
+                "object": "陆某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李渊和隋炀帝杨广是表兄弟。",
+        "spo_list": [
+            {
+                "predicate": "表兄弟",
+                "subject": "李渊",
+                "subject_type": "人物",
+                "object": "杨广",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据媒体报道，教皇方济各在抵达菲律宾时，受到当地民众热烈欢迎，总统阿基诺三世以及教会的多名神职人员，在马尼拉的比利亚莫尔空军基地迎接教宗的到来。",
+        "spo_list": [
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "方济各",
+                "subject_type": "人物",
+                "object": "阿基诺三世",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "方济各",
+                "subject_type": "人物",
+                "object": "阿基诺",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "台媒12月9日消息称，国民党“立委”郑丽文7日爆料台湾行政机构负责人苏贞昌几年前曾飙骂台当局领导人蔡英文长达半小时，当时的脱稿“演出”让场面相当尴尬。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "发言提及",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "郑丽文",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "特朗普的“军师”、国家安全事务助理赫伯特·雷蒙德·麦克马斯特１６日访问阿富汗并与阿总统阿什拉夫·加尼会晤。",
+        "spo_list": [
+            {
+                "predicate": "拜访会见",
+                "subject": "阿什拉夫·加尼",
+                "subject_type": "人物",
+                "object": "特朗普",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据新华社2月7日的报道，斯里兰卡总统戈塔巴雅·拉贾帕克萨6日下午在总统府约见中国驻斯大使程学源，代表斯里兰卡政府和人民向中国捐赠首批锡兰红茶，以表达对中方抗击新冠肺炎疫情的慰问。",
+        "spo_list": [
+            {
+                "predicate": "支持援助",
+                "subject": "戈塔巴雅·拉贾帕克萨",
+                "subject_type": "人物",
+                "object": "程学源",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "拜访会见",
+                "subject": "戈塔巴雅·拉贾帕克萨",
+                "subject_type": "人物",
+                "object": "程学源",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "今日，苏贞昌接受“现场震撼教育”，接连被台媒和“蓝委”郑正钤问到此议题，他先愣了一下，之后尴尬笑说“嗯，谢谢！”",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "郑正钤",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "梁周洋出生在北京，可谓是出生于真正的名门，她的外曾祖父是近代史上著名的政治家和文学家，也是戊戌变法的领袖之一梁启超，曾祖父是著名的建筑学家梁思成，曾祖母是民国名媛林徽因，养父是中国青铜器文物保护专家梁鉴。",
+        "spo_list": [
+            {
+                "predicate": "曾祖父",
+                "subject": "梁周洋",
+                "subject_type": "人物",
+                "object": "梁思成",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "曾祖母",
+                "subject": "梁周洋",
+                "subject_type": "人物",
+                "object": "林徽因",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "养父",
+                "subject": "梁周洋",
+                "subject_type": "人物",
+                "object": "梁鉴",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外曾祖父",
+                "subject": "梁周洋",
+                "subject_type": "人物",
+                "object": "梁启超",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "大学期间，安格拉认识了物理系的同学乌利希·默克尔，他们同居一年之后，于1977年结婚。",
+        "spo_list": [
+            {
+                "predicate": "丈夫",
+                "subject": "安格拉",
+                "subject_type": "人物",
+                "object": "乌利希·默克尔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "因为朱厚照和朱厚熜的年龄差以及当时他们所处的地位，虽然是堂兄弟，但是他俩之间可以说并没有实质性的关系。",
+        "spo_list": [
+            {
+                "predicate": "堂兄弟",
+                "subject": "朱厚照",
+                "subject_type": "人物",
+                "object": "朱厚熜",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "这个被抢走的孩子就是申聪，而他的父母申军良夫妇从此开始了15年的漫长寻子路。",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "申聪",
+                "subject_type": "人物",
+                "object": "申军良",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "5月28日，云南官方通报孙小果案件进展情况，其母亲孙鹤予的相关信息被披露。",
+        "spo_list": [
+            {
+                "predicate": "生母",
+                "subject": "孙小果",
+                "subject_type": "人物",
+                "object": "孙鹤予",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1950年秋，毛泽东邀请表兄王季范及其儿媳张丽坤、孙女王丽华、孙子王继浩一同来北京。家宴上，毛泽东拉着王季范的手，向自己的家人介绍道：“这是我九哥，他家在湘乡，是我的姨表兄。”",
+        "spo_list": [
+            {
+                "predicate": "表哥",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "王季范",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "孙女",
+                "subject": "王季范",
+                "subject_type": "人物",
+                "object": "王丽华",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿媳",
+                "subject": "王季范",
+                "subject_type": "人物",
+                "object": "张丽坤",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "孙子",
+                "subject": "王季范",
+                "subject_type": "人物",
+                "object": "王继浩",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "近日，保研结果逐渐公布，大连理工大学一对情侣刘樾、盛达成功保研。",
+        "spo_list": [
+            {
+                "predicate": "情侣",
+                "subject": "刘樾",
+                "subject_type": "人物",
+                "object": "盛达",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "11月10日，正观新闻记者从歌手张灵敏的代理律师常昊天处获悉，由于赵万朋在网络传播关于张灵敏的谣言，多家合作公司因此与张灵敏终止合约，其本人遭受逾百万元的预期利润损失，并且网络谣言严重损害了她的名誉。",
+        "spo_list": [
+            {
+                "predicate": "辩护律师",
+                "subject": "张灵敏",
+                "subject_type": "人物",
+                "object": "常昊天",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侮辱诽谤",
+                "subject": "赵万朋",
+                "subject_type": "人物",
+                "object": "张灵敏",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "如今马丁能接受继母，并和杜星霖相处得如亲生母子，非常喜欢自己的弟弟妹妹，这样和谐的关系很难得。",
+        "spo_list": [
+            {
+                "predicate": "继母",
+                "subject": "马丁",
+                "subject_type": "人物",
+                "object": "杜星霖",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "天津自贸区法院公开开庭审理了原告张常宁诉被告刘某网络侵权责任纠纷一案，依法判处被告刘某于判决生效之日起",
+        "spo_list": [
+            {
+                "predicate": "起诉控告",
+                "subject": "张常宁",
+                "subject_type": "人物",
+                "object": "刘某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侵权",
+                "subject": "刘某",
+                "subject_type": "人物",
+                "object": "张常宁",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "金庸的表外甥女是琼瑶，琼瑶奶奶我们就不用再多介绍了，大名鼎鼎的《还珠格格》就是出自琼瑶奶奶的手，可以说是非常的有才了。",
+        "spo_list": [
+            {
+                "predicate": "外甥女",
+                "subject": "金庸",
+                "subject_type": "人物",
+                "object": "琼瑶",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "到周宣王时，非子的曾孙秦仲任大夫，在征伐西戎时战死。",
+        "spo_list": [
+            {
+                "predicate": "曾孙子",
+                "subject": "非子",
+                "subject_type": "人物",
+                "object": "秦仲",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "郭德纲师从侯耀文，侯耀文是侯宝林的儿子，而侯宝林和姜宝林是“老搭档”。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "侯宝林",
+                "subject_type": "人物",
+                "object": "侯耀文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "老师",
+                "subject": "郭德纲",
+                "subject_type": "人物",
+                "object": "侯耀文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "合作",
+                "subject": "侯宝林",
+                "subject_type": "人物",
+                "object": "姜宝林",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2018年4月20日凌晨3时许，被告人孟某某伙同陈某某、徐某某（均另案处理）等人酒后在苏州市姑苏区南环大街处理交通事故的过程中与汪某某发生争执，后对汪某某进行追打。",
+        "spo_list": [
+            {
+                "predicate": "同伙",
+                "subject": "陈某某",
+                "subject_type": "人物",
+                "object": "徐某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "孟某某",
+                "subject_type": "人物",
+                "object": "徐某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "冲突纠纷",
+                "subject": "孟某某",
+                "subject_type": "人物",
+                "object": "汪某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "冲突纠纷",
+                "subject": "陈某某",
+                "subject_type": "人物",
+                "object": "汪某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "冲突纠纷",
+                "subject": "徐某某",
+                "subject_type": "人物",
+                "object": "汪某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "游族网络董事长林奇去世，疑被同事费祥杰毒杀。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "林奇",
+                "subject_type": "人物",
+                "object": "费祥杰",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "毒害",
+                "subject": "费祥杰",
+                "subject_type": "人物",
+                "object": "林奇",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "而据《中国新闻周刊》报道，梁灶暖正是梁耀辉之父，“梁父80多岁，耕田人出身，文化不高，太子酒店的法人代表显然只是挂名。”",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "梁耀辉",
+                "subject_type": "人物",
+                "object": "梁灶暖",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "书法展观摩结束后，贾庆林与林志良夫妇、中国美术家协会党组副书记徐里、中书法家协会副秘书长潘文海、台湾前立委曹原彰等人进行了亲切交谈。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "贾庆林",
+                "subject_type": "人物",
+                "object": "潘文海",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "交流讨论",
+                "subject": "贾庆林",
+                "subject_type": "人物",
+                "object": "徐里",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2020年6月6日19时许，被不起诉人刘某某到汉中市南郑区前妻李某甲家中看女儿李某乙。",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "李某甲",
+                "subject_type": "人物",
+                "object": "李某乙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "前妻",
+                "subject": "刘某某",
+                "subject_type": "人物",
+                "object": "李某甲",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "刘某某",
+                "subject_type": "人物",
+                "object": "李某乙",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "因为此前就联系过吴丹红律师，9日便委托两位律师为劳荣枝的二审辩护律师。",
+        "spo_list": [
+            {
+                "predicate": "辩护律师",
+                "subject": "劳荣枝",
+                "subject_type": "人物",
+                "object": "吴丹红",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "    14日共有7名候选人参与总统角逐，胜选热门为查韦斯生前“钦点接班人”、执政党候选人、现任代总统尼古拉斯·马杜罗，以及在2012年10月大选中仅落败查韦斯不到10个百分点的反对派候选人恩里克·卡普里莱斯。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "尼古拉斯·马杜罗",
+                "subject_type": "人物",
+                "object": "查韦斯",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "12月8日，芬兰执政联盟中最大的政党社会民主党投票选举新总理，桑娜·马林以32比29票的微弱优势战胜社民党议会领袖林特曼，赢得了总理提名资格，待国会通过信任投票后，便能由总统任命并宣誓就职。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "桑娜·马林",
+                "subject_type": "人物",
+                "object": "林特曼",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "王阳，毕业于上海戏剧学院表演系，他的同班同学是任重和张铎",
+        "spo_list": [
+            {
+                "predicate": "同学",
+                "subject": "任重",
+                "subject_type": "人物",
+                "object": "张铎",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "王阳",
+                "subject_type": "人物",
+                "object": "任重",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "王阳",
+                "subject_type": "人物",
+                "object": "张铎",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "苏雪林的祖父苏轼是清朝晚期的一个小县令，她的祖母苏明则是非常传统的富户之女。",
+        "spo_list": [
+            {
+                "predicate": "祖父",
+                "subject": "苏雪林",
+                "subject_type": "人物",
+                "object": "苏轼",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "祖母",
+                "subject": "苏雪林",
+                "subject_type": "人物",
+                "object": "苏明",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被告人徐昭炜、马焘乘坐被害人姚某某无证出租车从本市东丽区军粮城地铁站至河东区雪莲桥附近，采用上述方式敲诈勒索被害人姚某某2000元。",
+        "spo_list": [
+            {
+                "predicate": "敲诈勒索",
+                "subject": "徐昭炜",
+                "subject_type": "人物",
+                "object": "姚某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "敲诈勒索",
+                "subject": "马焘",
+                "subject_type": "人物",
+                "object": "姚某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李富春于1919年到达法国勤工俭学，邓小平于1920年到达法国勤工俭学，两人的友谊同样也是从法国开始的",
+        "spo_list": [
+            {
+                "predicate": "朋友",
+                "subject": "李富春",
+                "subject_type": "人物",
+                "object": "邓小平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "昨天，小余的嫂子刘小姐在东方热线的论坛上发帖子讲了这个事情，立即引起广大网友的共鸣。",
+        "spo_list": [
+            {
+                "predicate": "嫂子",
+                "subject": "小余",
+                "subject_type": "人物",
+                "object": "刘小姐",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "国务院总理李克强和柬埔寨首相洪森分别向开幕式致贺词。",
+        "spo_list": [
+            {
+                "predicate": "出席活动",
+                "subject": "洪森",
+                "subject_type": "人物",
+                "object": "李克强",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "王美琪家属起诉张山青要求赔偿80余万元。",
+        "spo_list": [
+            {
+                "predicate": "起诉控告",
+                "subject": "王美琪",
+                "subject_type": "人物",
+                "object": "张山青",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "北京市朝阳区某医院体检医生王某某在内科体检的过程中，以触摸私处等方式对王冰、李默然、杨聪等20余名在校女大学生实施猥亵。",
+        "spo_list": [
+            {
+                "predicate": "猥亵",
+                "subject": "王某某",
+                "subject_type": "人物",
+                "object": "李默然",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "猥亵",
+                "subject": "王某某",
+                "subject_type": "人物",
+                "object": "王冰",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "猥亵",
+                "subject": "王某某",
+                "subject_type": "人物",
+                "object": "杨聪",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "倪大红毕业于中央戏剧学院82级，同班同学有张光北，何政君，张山，王超。",
+        "spo_list": [
+            {
+                "predicate": "同学",
+                "subject": "何政君",
+                "subject_type": "人物",
+                "object": "王超",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "何政君",
+                "subject_type": "人物",
+                "object": "张山",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "张光北",
+                "subject_type": "人物",
+                "object": "张山",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "张光北",
+                "subject_type": "人物",
+                "object": "何政君",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "倪大红",
+                "subject_type": "人物",
+                "object": "王超",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "张光北",
+                "subject_type": "人物",
+                "object": "王超",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "倪大红",
+                "subject_type": "人物",
+                "object": "张光北",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "倪大红",
+                "subject_type": "人物",
+                "object": "何政君",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "倪大红",
+                "subject_type": "人物",
+                "object": "张山",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同学",
+                "subject": "张山",
+                "subject_type": "人物",
+                "object": "王超",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "6日7时，《新闻联播》再次迎来新主持人——《晚间新闻》女主播海霞，这是继2006年6月7日康辉和李梓萌全新搭档主持节目后，《新闻联播》第二次变脸。",
+        "spo_list": [
+            {
+                "predicate": "合作",
+                "subject": "康辉",
+                "subject_type": "人物",
+                "object": "李梓萌",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "现年70岁的以色列总理本雅明·内塔尼亚胡被指控收受70万谢克尔的雪茄、香槟和珠宝，以换取个人经济利益。",
+        "spo_list": [
+            {
+                "predicate": "利益相关",
+                "subject": "本雅明·内塔尼亚胡",
+                "subject_type": "人物",
+                "object": "谢克尔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "以色列总理本雅明·内塔尼亚胡８日批评以军二号人物、国防军副参谋长亚伊尔·戈兰有关以色列社会的言论，认为这是对以色列的不公看法。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "本雅明·内塔尼亚胡",
+                "subject_type": "人物",
+                "object": "亚伊尔·戈兰",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "十三四岁时，正值二战时期，米兰·昆德拉师从捷克最出色的作曲家之一——保尔·哈斯学习作曲。",
+        "spo_list": [
+            {
+                "predicate": "老师",
+                "subject": "米兰·昆德拉",
+                "subject_type": "人物",
+                "object": "保尔·哈斯",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "邹韬奋的女儿邹嘉骊认定，这是邹韬奋遗嘱的原始版本。",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "邹韬奋",
+                "subject_type": "人物",
+                "object": "邹嘉骊",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "在政府方面，迪亚斯—卡内尔是国家元首和政府首脑，但因其在军队中资历较浅，并没有在军中担任重要职务的经历，军事方面的话语权仍然掌握在以劳尔·卡斯特罗为首的老一辈革命家手中，菲德尔·卡斯特罗的助手、前革命武装力量部副部长拉米罗·巴尔德斯仍然担任国务委员会副主席，他们也是古巴模式更新中的稳定器。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "菲德尔·卡斯特罗",
+                "subject_type": "人物",
+                "object": "迪亚斯—卡内尔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "按照礼宾规格七爸是政治局常委、政府首脑，应该站在中间，但江青竟站到了前排中间的主人位置，周恩来只好挪位站在了主人的左侧——有礼宾人员告诉周尔鎏，周恩来谦让了一下，江青便顺势堂而皇之地站到中间了。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "江青",
+                "subject_type": "人物",
+                "object": "周尔鎏",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "张若昀是跟着爷爷奶奶长大的，父亲是导演、编剧、制片人张健，母亲名叫黄鸣。",
+        "spo_list": [
+            {
+                "predicate": "生母",
+                "subject": "张若昀",
+                "subject_type": "人物",
+                "object": "黄鸣",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妻子",
+                "subject": "张健",
+                "subject_type": "人物",
+                "object": "黄鸣",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "生父",
+                "subject": "张若昀",
+                "subject_type": "人物",
+                "object": "张健",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1996年2月15日，巩俐与黄和祥结婚，圈内好友梅艳芳、林青霞等到场祝贺，并送上礼物。",
+        "spo_list": [
+            {
+                "predicate": "夫妻",
+                "subject": "巩俐",
+                "subject_type": "人物",
+                "object": "黄和祥",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "梅艳芳",
+                "subject_type": "人物",
+                "object": "林青霞",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "巩俐",
+                "subject_type": "人物",
+                "object": "梅艳芳",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "朋友",
+                "subject": "巩俐",
+                "subject_type": "人物",
+                "object": "林青霞",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李某还雇佣了3名亲戚，侄子李某兵负责为李某订出行的火车票；外甥张某负责制作诈骗广告购买电话卡。",
+        "spo_list": [
+            {
+                "predicate": "侄子",
+                "subject": "李某",
+                "subject_type": "人物",
+                "object": "李某兵",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外甥",
+                "subject": "李某",
+                "subject_type": "人物",
+                "object": "张某负",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "如今，苏提达在瑞士独自生活，而诗妮娜却得以返回玛哈·哇集拉隆功国王的身边，对于王后来说，一场潜在的危机已经诞生，如何防范昔日的劲敌出狱后报复自己，甚至抢夺王后的位置，是苏提达的首要问题。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "诗妮娜",
+                "subject_type": "人物",
+                "object": "苏提达",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "剧中，小蛮与白敏中私期暗约，樊素传书递简，最终有情人成了眷属。",
+        "spo_list": [
+            {
+                "predicate": "情侣",
+                "subject": "小蛮",
+                "subject_type": "人物",
+                "object": "白敏中",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "这次特朗普则学会教训，对待德仁仅点头握手，并没有弯下腰。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "德仁",
+                "subject_type": "人物",
+                "object": "特朗普",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2021年6、7月份，吴恩城向滦平县纪委举报朱立伦、蔡英文和李开复等同事存在公车私用、罚款不开票的问题。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "李开复",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同事",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "李开复",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同事",
+                "subject": "朱立伦",
+                "subject_type": "人物",
+                "object": "李开复",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同事",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "举报",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "举报",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "朱立伦",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "举报",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "李开复",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同事",
+                "subject": "吴恩城",
+                "subject_type": "人物",
+                "object": "朱立伦",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同事",
+                "subject": "朱立伦",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "在综艺节目中，陆毅和郭京飞毫不避讳的告诉大家，他们两个人之间那可是连襟的关系。或许我们都知道陆毅的妻子是鲍蕾，但是很少有人知道郭京飞的妻子是鲍莉，而鲍蕾和鲍莉是如假包换的亲姐妹。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "陆毅",
+                "subject_type": "人物",
+                "object": "鲍蕾",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "其他亲属",
+                "subject": "陆毅",
+                "subject_type": "人物",
+                "object": "郭京飞",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "姐妹",
+                "subject": "鲍蕾",
+                "subject_type": "人物",
+                "object": "鲍莉",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妻子",
+                "subject": "郭京飞",
+                "subject_type": "人物",
+                "object": "鲍莉",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "孟加拉国总理谢赫·哈西娜向新西兰总理杰辛达·阿德恩发出信息称，对基督城两座清真寺遭袭表示深切震惊和谴责。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "谢赫·哈西娜",
+                "subject_type": "人物",
+                "object": "杰辛达·阿德恩",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据观察者网此前报道，今年8月，方济各赴韩国访问，中国打破惯例允许其专机穿越中国领空，方济各则给中国领导人习近平和中国人民发送了问候电报。",
+        "spo_list": [
+            {
+                "predicate": "问候祝福",
+                "subject": "方济各",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1962年2月，刘思齐与空军学院教员杨茂之结婚，生有两子两女，其中长子叫杨小英，是为怀念毛岸英起名的。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "杨茂之",
+                "subject_type": "人物",
+                "object": "杨小英",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "刘思齐",
+                "subject_type": "人物",
+                "object": "杨小英",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "夫妻",
+                "subject": "刘思齐",
+                "subject_type": "人物",
+                "object": "杨茂之",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "虽然和周星驰已经分道扬镳，吴孟达在很多次采访中还是不时被问到这位昔日老友。",
+        "spo_list": [
+            {
+                "predicate": "朋友",
+                "subject": "周星驰",
+                "subject_type": "人物",
+                "object": "吴孟达",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "参考消息网7月29日报道据法新社马德里7月27日报道，西班牙首相佩德罗·桑切斯27日强烈批评英国自26日起对从西班牙抵英的旅客实施隔离措施的决定，认为此举“不合适”。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "佩德罗·桑切斯",
+                "subject_type": "人物",
+                "object": "马德里",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "维加诺指责方济各恢复了前任教皇本笃十六世给麦卡里克下的制裁，并且在前任教宗本笃十六世统治的时期，对前红衣主教麦卡里克实施的任何强制制裁都从未真正执行过。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "方济各",
+                "subject_type": "人物",
+                "object": "维加诺",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "在面对“蓝委”质询时，苏贞昌本来是想帮蔡英文一把，替她分忧，结果却弄巧成拙，把事情捅出了乱子。",
+        "spo_list": [
+            {
+                "predicate": "支持援助",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "苏贞昌",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "泰国国王普密蓬于2016年10月13日下午3点52去世，在泰国宫务处发出此噩耗后，不丹的国王吉格梅·凯萨尔·纳姆耶尔·旺楚克带领着其他王室成员一起为泰王点烛哀悼!",
+        "spo_list": [
+            {
+                "predicate": "问候祝福",
+                "subject": "吉格梅·凯萨尔·纳姆耶尔·旺楚克",
+                "subject_type": "人物",
+                "object": "普密蓬",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "盛承慧的父亲盛毓绶娶了任家的小女儿任蕊芬，而她的叔叔盛毓邮娶的是任家的大小姐任芷芳，盛家两兄弟，娶了任家两姐妹。",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "盛承慧",
+                "subject_type": "人物",
+                "object": "盛毓绶",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "叔叔",
+                "subject": "盛承慧",
+                "subject_type": "人物",
+                "object": "盛毓邮",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妻子",
+                "subject": "盛毓绶",
+                "subject_type": "人物",
+                "object": "任蕊芬",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妻子",
+                "subject": "盛毓邮",
+                "subject_type": "人物",
+                "object": "任芷芳",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "此前，曾经有消息说奥多姆在迎娶卡戴珊之前，禁欲了很久，对昔日的“花花公子”来说，这简直让人匪夷所思。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "奥多姆",
+                "subject_type": "人物",
+                "object": "戴珊",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据俄罗斯卫星通讯社10月29日报道，美国国务卿迈克·蓬佩奥表示，美国愿与阿根廷新当选总统阿尔韦托·费尔南德斯进行合作。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "阿尔韦托·费尔南德斯",
+                "subject_type": "人物",
+                "object": "迈克·蓬佩奥",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "虽说智利现任总统塞巴斯蒂安·皮涅拉是博尔索纳罗的政治盟友，但这位总统也实在看不下去了。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "塞巴斯蒂安·皮涅拉",
+                "subject_type": "人物",
+                "object": "博尔索纳罗",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "    以色列总理本雅明·内塔尼亚胡27日喊话，针对真主党领导人哈桑·纳斯鲁拉威胁对以色列无人驾驶飞机侵入黎巴嫩领空作出反应，警告后者“保持冷静”。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "本雅明·内塔尼亚胡",
+                "subject_type": "人物",
+                "object": "哈桑·纳斯鲁拉",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "受导师刘海粟之聘，1929年，潘玉良回到上海美专任教，之后亦被南京中央大学艺术系聘为教授。",
+        "spo_list": [
+            {
+                "predicate": "老师",
+                "subject": "潘玉良",
+                "subject_type": "人物",
+                "object": "刘海粟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "刘伟校长代表学校对伊利哈姆·阿利耶夫总统获得中国人民大学名誉教授表示祝贺。",
+        "spo_list": [
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "伊利哈姆·阿利耶夫",
+                "subject_type": "人物",
+                "object": "刘伟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "王毅首先转达习近平主席致菅义伟首相的口信，并转达中国领导人的亲切问候。",
+        "spo_list": [
+            {
+                "predicate": "问候祝福",
+                "subject": "菅义伟",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "毕竟，虽然苏贞昌与蔡英文之间是相互协调、帮忙的关系，但是苏贞昌如果没能诚心道歉，最终不仅会对自己的政治生涯产生危害，还可能会拖累蔡英文。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "利益相关",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "蔡英文",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "听说你还约谈了杜月笙的女儿杜美茹？",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "杜月笙",
+                "subject_type": "人物",
+                "object": "杜美茹",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "周恩来、朱德等发言支持毛泽东的意见，称赞毛泽东的军事指挥，在危急情况下，由于采取兜大圈子、机动作战的方针，四渡赤水，二占遵义，佯攻贵阳，威逼昆明，北渡金沙江，才摆脱了敌人的重兵包围。",
+        "spo_list": [
+            {
+                "predicate": "赞赏肯定",
+                "subject": "朱德",
+                "subject_type": "人物",
+                "object": "毛泽东",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1936年10月25日，郑君里与黄晨在上海天仙桥青年会礼堂举行婚礼。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "郑君里",
+                "subject_type": "人物",
+                "object": "黄晨",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "奶茶”刘若英的“红三代”身份很少为人所知，她的爷爷刘咏尧是黄埔军校一期的毕业生，曾经担任国民党政府政府国际部代理部长。",
+        "spo_list": [
+            {
+                "predicate": "祖父",
+                "subject": "刘若英",
+                "subject_type": "人物",
+                "object": "刘咏尧",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "　　习近平欢迎洪森正式访华并出席“一带一路”国际合作高峰论坛。",
+        "spo_list": [
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "洪森",
+                "subject_type": "人物",
+                "object": "　　习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被不起诉人朱某某在其未婚妻郑某某家中，与郑某某前夫王某某因家庭婚姻矛盾争吵，王某某辱骂朱某某并在朱某某的头部戳了一手指，朱某某站起来在王某某的嘴上打了一拳，致使王某某门牙受伤松动。",
+        "spo_list": [
+            {
+                "predicate": "前夫",
+                "subject": "郑某某",
+                "subject_type": "人物",
+                "object": "王某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "殴打伤害",
+                "subject": "朱某某",
+                "subject_type": "人物",
+                "object": "王某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "未婚妻",
+                "subject": "朱某某",
+                "subject_type": "人物",
+                "object": "郑某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "回顾白俄罗斯乱局伊始，8月9日举行总统选举，根据中央选举委员会的数据，亚历山大·卢卡申科获得80%的选票，他的主要对手反对派领导人斯维特拉娜·蒂哈诺夫斯卡亚获得10%的选票，反对派不承认公布的结果，蒂哈诺夫斯卡亚离开白俄罗斯前往立陶宛。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "亚历山大·卢卡申科",
+                "subject_type": "人物",
+                "object": "斯维特拉娜·蒂哈诺夫斯卡亚",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "中方驳斥#据《环球网》报道，驻加拿大使馆发言人就哈利法克斯国际安全论坛决定向蔡英文颁奖答记者问时说：“哈利法克斯国际安全论坛不顾中方严正立场，执意向中国台湾地区领导人蔡英文颁奖，严重违反一个中国原则，向‘台独’分裂势力发出错误信号，中方对此表示坚决反对。”",
+        "spo_list": [
+            {
+                "predicate": "赞赏肯定",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "哈利法克斯",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "赵文理主要人员:父亲：赵洪",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "赵文理",
+                "subject_type": "人物",
+                "object": "赵洪",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "涂西畴没辜负重托，成功策反陈明仁领导兵团的中将参谋长文于一、国民党军统中将军衔特务张严佛、宪兵团长姜和赢，以及国民党空军大托铺机场负责人蔡晋年等人。",
+        "spo_list": [
+            {
+                "predicate": "鼓动策反",
+                "subject": "涂西畴",
+                "subject_type": "人物",
+                "object": "张严佛",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "鼓动策反",
+                "subject": "涂西畴",
+                "subject_type": "人物",
+                "object": "文于一",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "鼓动策反",
+                "subject": "涂西畴",
+                "subject_type": "人物",
+                "object": "姜和赢",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "鼓动策反",
+                "subject": "涂西畴",
+                "subject_type": "人物",
+                "object": "蔡晋年",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "下属",
+                "subject": "陈明仁",
+                "subject_type": "人物",
+                "object": "文于一",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "孙科随祖母前往美国檀香山，投奔孙中山先生的哥哥孙眉。",
+        "spo_list": [
+            {
+                "predicate": "哥哥",
+                "subject": "孙中山",
+                "subject_type": "人物",
+                "object": "孙眉",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "库里的弟弟塞斯·库里，娶了76人主教练里弗斯的女儿，因此，塞斯·库里就是里弗斯的女婿；而里弗斯还有一个儿子奥斯汀·里弗斯同样在NBA效力，因此，塞斯·库里也是奥斯汀·里弗斯的妹夫。",
+        "spo_list": [
+            {
+                "predicate": "弟弟",
+                "subject": "库里",
+                "subject_type": "人物",
+                "object": "塞斯·库里",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女婿",
+                "subject": "里弗斯",
+                "subject_type": "人物",
+                "object": "塞斯·库里",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妹夫",
+                "subject": "奥斯汀·里弗斯",
+                "subject_type": "人物",
+                "object": "塞斯·库里",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "里弗斯",
+                "subject_type": "人物",
+                "object": "奥斯汀·里弗斯",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "薛宝琴是薛姨妈的侄女，薛蝌的胞妹，薛蟠，薛宝钗的堂妹。",
+        "spo_list": [
+            {
+                "predicate": "侄女",
+                "subject": "薛姨妈",
+                "subject_type": "人物",
+                "object": "薛宝琴",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "堂妹",
+                "subject": "薛宝钗",
+                "subject_type": "人物",
+                "object": "薛宝琴",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "犯罪嫌疑人李某多次打探张女士的行动轨迹，在掌握张女士的生活规律后，犯罪嫌疑人张某找到了其亲属时某和田某，将抢劫的想法告诉了他们。",
+        "spo_list": [
+            {
+                "predicate": "其他亲属",
+                "subject": "时某",
+                "subject_type": "人物",
+                "object": "田某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "其他亲属",
+                "subject": "张某",
+                "subject_type": "人物",
+                "object": "时某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "其他亲属",
+                "subject": "张某",
+                "subject_type": "人物",
+                "object": "田某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "叶汉是何鸿燊的对手，霍英东却是何鸿燊的朋友。",
+        "spo_list": [
+            {
+                "predicate": "朋友",
+                "subject": "霍英东",
+                "subject_type": "人物",
+                "object": "何鸿燊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "竞争对手",
+                "subject": "叶汉",
+                "subject_type": "人物",
+                "object": "何鸿燊",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "之后谢长廷在党内初选胜出，与落败的苏贞昌组成“谢苏配”，最后同台不同心，以大败收场。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "谢长廷",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "盟友",
+                "subject": "苏贞昌",
+                "subject_type": "人物",
+                "object": "谢长廷",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "他定于27日上午11点和12点分别会见越南国家主席阮富仲、总理阮春福。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "阮富仲",
+                "subject_type": "人物",
+                "object": "阮春福",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "张爱玲于上海文坛初露峥嵘。在抗战时期因与胡兰成相恋成婚，成为她一生饱受世人诟病的污点。",
+        "spo_list": [
+            {
+                "predicate": "丈夫",
+                "subject": "张爱玲",
+                "subject_type": "人物",
+                "object": "胡兰成",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "我与大千居士作者简介:当代国画大师张大千生前曾与周士心有着不解的翰墨因缘。",
+        "spo_list": [
+            {
+                "predicate": "朋友",
+                "subject": "张大千",
+                "subject_type": "人物",
+                "object": "周士心",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "廖月琴的母亲谢淑媛，即钟南山的外婆，嫁进廖家时，家族聚居廖厝，受大家庭规矩培养出来，凡事以男主人优先；",
+        "spo_list": [
+            {
+                "predicate": "生母",
+                "subject": "廖月琴",
+                "subject_type": "人物",
+                "object": "谢淑媛",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外婆",
+                "subject": "钟南山",
+                "subject_type": "人物",
+                "object": "谢淑媛",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "最痴情——明英宗朱祁镇之钱皇后",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "朱祁镇",
+                "subject_type": "人物",
+                "object": "钱皇后",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "在市局相关单位的支持下，通过大量的走访、调查取证，克服在异地办案的种种困难，经过努力，锁定了黄某、李某、廖某、苏某4人组成的贩毒团伙。",
+        "spo_list": [
+            {
+                "predicate": "同伙",
+                "subject": "李某",
+                "subject_type": "人物",
+                "object": "苏某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "李某",
+                "subject_type": "人物",
+                "object": "廖某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "黄某",
+                "subject_type": "人物",
+                "object": "廖某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "黄某",
+                "subject_type": "人物",
+                "object": "苏某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "黄某",
+                "subject_type": "人物",
+                "object": "李某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "廖某",
+                "subject_type": "人物",
+                "object": "苏某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "约翰逊1964年出生于美国纽约市，他先后就读于伊顿公学、牛津大学，与前首相戴维·卡梅伦是同窗好友。",
+        "spo_list": [
+            {
+                "predicate": "同学",
+                "subject": "约翰逊",
+                "subject_type": "人物",
+                "object": "戴维·卡梅伦",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "经过黄金荣与林桂生的赏识提携，杜月笙才逐渐发达，而张啸林则成名更晚。",
+        "spo_list": [
+            {
+                "predicate": "下属",
+                "subject": "林桂生",
+                "subject_type": "人物",
+                "object": "杜月笙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "下属",
+                "subject": "黄金荣",
+                "subject_type": "人物",
+                "object": "杜月笙",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "7月3日，阿布扎比王储穆罕默德欢迎厄立特里亚总统伊萨亚斯·阿费沃尔基访阿。",
+        "spo_list": [
+            {
+                "predicate": "欢迎祝贺",
+                "subject": "伊萨亚斯·阿费沃尔基",
+                "subject_type": "人物",
+                "object": "穆罕默德",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李宏伟小心留意，将接触到的涉密文件资料偷偷复印后交给黄娟。黄娟将这些资料通过行李托运的方式携带出境后，卖给境外间谍人员。",
+        "spo_list": [
+            {
+                "predicate": "泄密",
+                "subject": "李宏伟",
+                "subject_type": "人物",
+                "object": "黄娟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被告人徐某某到宾县宾安镇宾安村小白屯其姥姥被害人刘某某家中，趁刘某某不在家之机，将刘某某名下的一张中国农业银行卡绑到自己的微信上。",
+        "spo_list": [
+            {
+                "predicate": "外婆",
+                "subject": "徐某某",
+                "subject_type": "人物",
+                "object": "刘某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "徐佛苏简介:在日本与当时留学生的同盟会，日知会等交往.曾担任或黄兴先生的秘书；",
+        "spo_list": [
+            {
+                "predicate": "下属",
+                "subject": "黄兴",
+                "subject_type": "人物",
+                "object": "徐佛苏",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "林克在自己的回忆录《我所知道的毛泽东》中分析说：\"江青在政治上善于察言观色，投毛泽东所好。",
+        "spo_list": [
+            {
+                "predicate": "发言提及",
+                "subject": "江青",
+                "subject_type": "人物",
+                "object": "林克",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1933年，郝景盛考取河北省公费留美，同年与赵为楣女士结婚。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "郝景盛",
+                "subject_type": "人物",
+                "object": "赵为楣",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "反倒是魏东海，本身还是顾及亲情的，从来不相信自己的侄子魏子乐会杀人，最后被亲侄子雇来的人杀掉，真的蛮惨的。",
+        "spo_list": [
+            {
+                "predicate": "侄子",
+                "subject": "魏东海",
+                "subject_type": "人物",
+                "object": "魏子乐",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2022年2月10日至13日期间，邱某某（另案处理）以每日300元至500元的费用，雇佣被告人李某某为其贩卡提供帮助。",
+        "spo_list": [
+            {
+                "predicate": "雇佣",
+                "subject": "邱某某",
+                "subject_type": "人物",
+                "object": "李某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "江同的弟媳章丽（化名）说，依依只是身上擦伤，已回家休息。",
+        "spo_list": [
+            {
+                "predicate": "弟媳",
+                "subject": "江同",
+                "subject_type": "人物",
+                "object": "章丽",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "少年侦探团的团长是小林芳雄，他是明智小五郎的徒弟。",
+        "spo_list": [
+            {
+                "predicate": "学生",
+                "subject": "明智小五郎",
+                "subject_type": "人物",
+                "object": "小林芳雄",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "王仲山的女儿王氏后来嫁给秦桧为妻，这位王氏是李清照的表姐，也就是说秦桧其实是李清照的表姐夫。",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "王仲山",
+                "subject_type": "人物",
+                "object": "王氏",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "姐夫",
+                "subject": "李清照",
+                "subject_type": "人物",
+                "object": "秦桧",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "表姐",
+                "subject": "李清照",
+                "subject_type": "人物",
+                "object": "王氏",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妻子",
+                "subject": "秦桧",
+                "subject_type": "人物",
+                "object": "王氏",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "马英九的祖父马立安，曾在清末和民国时期担任地方团练，后来为了保护族人免受土匪流氓的骚扰，举家搬到了衡山县。",
+        "spo_list": [
+            {
+                "predicate": "祖父",
+                "subject": "马英九",
+                "subject_type": "人物",
+                "object": "马立安",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "其四，特朗普的真实面目只是为自己谋求利益而已，蔡英文难道还没有看清楚吗？",
+        "spo_list": [
+            {
+                "predicate": "利益相关",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "特朗普",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "今年3月24日，许某发布了一则关于英雄烈士董存瑞的帖子，其中充斥着侮辱性言辞。",
+        "spo_list": [
+            {
+                "predicate": "侮辱诽谤",
+                "subject": "许某",
+                "subject_type": "人物",
+                "object": "董存瑞",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "赵光义是宋宣祖赵弘殷和杜太后所生的第三个儿子，宋太祖赵匡胤之弟。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "赵弘殷",
+                "subject_type": "人物",
+                "object": "赵光义",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "杜太后",
+                "subject_type": "人物",
+                "object": "赵光义",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "弟弟",
+                "subject": "赵匡胤",
+                "subject_type": "人物",
+                "object": "赵光义",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "夫妻",
+                "subject": "赵弘殷",
+                "subject_type": "人物",
+                "object": "杜太后",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "美食街是由著名国画大师潘天寿的嫡亲外孙朱仁民先生设计，于2009年12月底开街，现在也具有一定的人气。",
+        "spo_list": [
+            {
+                "predicate": "外孙子",
+                "subject": "潘天寿",
+                "subject_type": "人物",
+                "object": "朱仁民",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "最近，香港黄金配角许绍雄，就是那个在《新扎师妹》里神经兮兮大喊“GO!GO!GO”的演员，被网友“扒”出原来他来自一个很牛掰的许氏世家，他的姑姑就是鲁迅的妻子许广平，而他就算是鲁迅的侄子",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "鲁迅",
+                "subject_type": "人物",
+                "object": "许广平",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侄子",
+                "subject": "鲁迅",
+                "subject_type": "人物",
+                "object": "许绍雄",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "有人认为，菅义伟急于巩固美日同盟关系，尤其希望加强与拜登私人关系，其实与菅义伟今年9月即将结束的任期有关。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "菅义伟",
+                "subject_type": "人物",
+                "object": "拜登",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "当地时间9月11日晚，巴林国家通讯社报道，巴林国王哈马德·本·伊萨·阿勒哈利法当天与美国总统特朗普和以色列总理内塔尼亚胡实现了三方通话，哈马德在电话中同意与以色列实现关系正常化，并将参加9月15日在白宫举行的和平协议签署仪式。",
+        "spo_list": [
+            {
+                "predicate": "致电通信",
+                "subject": "哈马德·本·伊萨·阿勒哈利法",
+                "subject_type": "人物",
+                "object": "内塔尼亚胡",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2022年1月，马某得知校友袁某因涉嫌信息网络诈骗被公安机关调查，遂以帮助袁某通关系为由先后骗取袁某人民币27900余元。",
+        "spo_list": [
+            {
+                "predicate": "诈骗",
+                "subject": "马某",
+                "subject_type": "人物",
+                "object": "袁某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "校友",
+                "subject": "马某",
+                "subject_type": "人物",
+                "object": "袁某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据民警向记者介绍，李伟、李桐、李建三人是亲兄弟。",
+        "spo_list": [
+            {
+                "predicate": "兄弟",
+                "subject": "李桐",
+                "subject_type": "人物",
+                "object": "李建",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "兄弟",
+                "subject": "李伟",
+                "subject_type": "人物",
+                "object": "李建",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "兄弟",
+                "subject": "李伟",
+                "subject_type": "人物",
+                "object": "李桐",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "教育家黄齐生就是王若飞的舅舅，每一个外甥的心里都有一个高大的舅舅。",
+        "spo_list": [
+            {
+                "predicate": "舅舅",
+                "subject": "王若飞",
+                "subject_type": "人物",
+                "object": "黄齐生",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "今年7月2日晚11时，张辉与其堂哥张某在六安市金安区某大排档吃夜宵。",
+        "spo_list": [
+            {
+                "predicate": "堂哥",
+                "subject": "张辉",
+                "subject_type": "人物",
+                "object": "张某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "但这样带着绵绵情意的场面，可就让林徽因的未来婆婆李蕙仙不那么高兴了。",
+        "spo_list": [
+            {
+                "predicate": "婆婆",
+                "subject": "林徽因",
+                "subject_type": "人物",
+                "object": "李蕙仙",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "老店的第四代传人魏宁告诉记者，他的曾祖父魏鸿臣于光绪十四年（1888年），在门框胡同租下一间门面房卖奶酪，当时名为“麟记酪铺”。",
+        "spo_list": [
+            {
+                "predicate": "曾祖父",
+                "subject": "魏宁",
+                "subject_type": "人物",
+                "object": "魏鸿臣",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "第一对就是王祖蓝和陈奕迅了，其实这段关系还是蛮有意思的，据王祖蓝说，在一次回乡探亲的过程中，竟然发现陈奕迅是他的远房表哥。",
+        "spo_list": [
+            {
+                "predicate": "表哥",
+                "subject": "王祖蓝",
+                "subject_type": "人物",
+                "object": "陈奕迅",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2014年7月，印尼举行第三次总统直选，雅加达省长佐科·维多多和前副总统尤素夫·卡拉搭档参选，战胜前陆军战略后备部队司令普拉博沃和前经济统筹部长哈达组合，于10月20日宣誓就任新一届正副总统，任期至2019年。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "佐科·维多多",
+                "subject_type": "人物",
+                "object": "博沃",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "竞争对手",
+                "subject": "佐科·维多多",
+                "subject_type": "人物",
+                "object": "普拉博沃",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "8月1日下午，王秀芝的儿子常燕斌让姐姐代为照顾母亲，自己回去收拾被黑水洗劫过的超市。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "王秀芝",
+                "subject_type": "人物",
+                "object": "常燕斌",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "　　国会秘书长、办公厅主任阮幸福在新闻发布会上表示，阮春福总理被推荐为国家主席候选人。",
+        "spo_list": [
+            {
+                "predicate": "发言提及",
+                "subject": "阮春福",
+                "subject_type": "人物",
+                "object": "阮幸福",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "事实上，该省省长近期已跟总理贾斯汀·特鲁多谈过此事，特鲁多保证会尽力发放防护用具给像克里斯汀这样的医护人员们。",
+        "spo_list": [
+            {
+                "predicate": "发言提及",
+                "subject": "斯汀·特鲁多",
+                "subject_type": "人物",
+                "object": "克里斯汀",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "张丹峰和洪欣的儿子张镐濂一直以来关系都非常好，两人虽是继父子，当却以父子相称，相处模式和外表看起来更像是好朋友、好兄弟。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "洪欣",
+                "subject_type": "人物",
+                "object": "张镐濂",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "继子",
+                "subject": "张丹峰",
+                "subject_type": "人物",
+                "object": "张镐濂",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被告人王某甲伙同妹夫徐某甲、姐夫孙某某在任城监狱警察楼项目工程中，采用有组织的滋扰、威胁、阻挠强迫迫使吴某某等实际施工人退出工程施工的行为。",
+        "spo_list": [
+            {
+                "predicate": "妹夫",
+                "subject": "王某甲",
+                "subject_type": "人物",
+                "object": "徐某甲",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "姐夫",
+                "subject": "王某甲",
+                "subject_type": "人物",
+                "object": "孙某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "王某甲",
+                "subject_type": "人物",
+                "object": "徐某甲",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "王某甲",
+                "subject_type": "人物",
+                "object": "孙某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "威胁恐吓",
+                "subject": "王某甲",
+                "subject_type": "人物",
+                "object": "吴某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "威胁恐吓",
+                "subject": "徐某甲",
+                "subject_type": "人物",
+                "object": "吴某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "徐某甲",
+                "subject_type": "人物",
+                "object": "孙某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "威胁恐吓",
+                "subject": "孙某某",
+                "subject_type": "人物",
+                "object": "吴某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被告人邢某某驾驶同村村民郭某甲的皮卡车与郭某甲从卓尼县**藏来到卓尼县***镇**村的扭子湾",
+        "spo_list": [
+            {
+                "predicate": "同乡",
+                "subject": "邢某某",
+                "subject_type": "人物",
+                "object": "郭某甲",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "除了上市公司外，吴俊保、吴伟、肖国庆三个堂兄弟还分别通过安徽新华集团、安徽新华发展集团、安徽新华控股集团控制着庞大的金融、地产等非上市资产，财富成长空间颇值得想象。",
+        "spo_list": [
+            {
+                "predicate": "堂兄弟",
+                "subject": "吴伟",
+                "subject_type": "人物",
+                "object": "肖国庆",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "堂兄弟",
+                "subject": "吴俊保",
+                "subject_type": "人物",
+                "object": "肖国庆",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "堂兄弟",
+                "subject": "吴俊保",
+                "subject_type": "人物",
+                "object": "吴伟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "袁世凯的儿子袁克义娶了李鸿章的孙子李国杰之女李家琚，所以袁世凯要叫李鸿章一声爷爷。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "袁克义",
+                "subject_type": "人物",
+                "object": "李家琚",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "李国杰",
+                "subject_type": "人物",
+                "object": "李家琚",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "祖父",
+                "subject": "袁世凯",
+                "subject_type": "人物",
+                "object": "李鸿章",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "孙子",
+                "subject": "李鸿章",
+                "subject_type": "人物",
+                "object": "李国杰",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "袁世凯",
+                "subject_type": "人物",
+                "object": "袁克义",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "刘蓓是张若昀的继母。",
+        "spo_list": [
+            {
+                "predicate": "继母",
+                "subject": "张若昀",
+                "subject_type": "人物",
+                "object": "刘蓓",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "1937年初，在法国的张学铭得知国内发生了震惊中外的“西安事变”以及张学良被软禁、拘押的消息，在为大哥担心的同时，张学铭很想亲见大哥一面，但是一时无法脱身，只好在异国遥寄思念之情。",
+        "spo_list": [
+            {
+                "predicate": "哥哥",
+                "subject": "张学铭",
+                "subject_type": "人物",
+                "object": "张学良",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "黄霑与顾嘉辉40年的合作，改变了英文歌曲占据香港乐坛的局面",
+        "spo_list": [
+            {
+                "predicate": "合作",
+                "subject": "黄霑",
+                "subject_type": "人物",
+                "object": "顾嘉辉",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "就目前情况来看，二房霍震寰长子霍启中才是霍家核心的继承人，但奈何霍启中吸毒各种荒唐，所以基本上是次子霍启文接手。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "霍震寰",
+                "subject_type": "人物",
+                "object": "霍启文",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "霍震寰",
+                "subject_type": "人物",
+                "object": "霍启中",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "虽然王景清以毛泽东的女婿的身份更让人熟知，但他也是一位老革命了。",
+        "spo_list": [
+            {
+                "predicate": "女婿",
+                "subject": "毛泽东",
+                "subject_type": "人物",
+                "object": "王景清",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2021年9月份，张某某以公开其偷拍的性爱视频相要挟，向王某某索要现金3万元。",
+        "spo_list": [
+            {
+                "predicate": "敲诈勒索",
+                "subject": "张某某",
+                "subject_type": "人物",
+                "object": "王某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "报道称，捷克参议院议长米洛什·维斯特奇尔于8月30日不顾捷克总统、众议院主席、总理安德烈·巴比什和外交部长的反对，执意率领90人团“访问”台湾。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "安德烈·巴比什",
+                "subject_type": "人物",
+                "object": "米洛什·维斯特奇尔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "侯耀文与前妻所生的的长女侯瓒委托律师向北京市西城区人民法院递交诉状，将自己的同父异母妹妹，父亲侯耀文和第二任妻子袁茵所生的女儿侯懿珊（小名妞妞）告上法庭",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "侯耀文",
+                "subject_type": "人物",
+                "object": "袁茵",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "袁茵",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "妹妹",
+                "subject": "侯瓒",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同人",
+                "subject": "侯懿珊",
+                "subject_type": "人物",
+                "object": "妞妞",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "起诉控告",
+                "subject": "侯瓒",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "侯耀文",
+                "subject_type": "人物",
+                "object": "侯懿珊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "侯耀文",
+                "subject_type": "人物",
+                "object": "侯瓒",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "说到甄子丹的这位豪门岳父，大众对汪顺的印象或许只停留在有名的“钻石大王”上。",
+        "spo_list": [
+            {
+                "predicate": "岳父",
+                "subject": "甄子丹",
+                "subject_type": "人物",
+                "object": "汪顺",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据法新社6月20日报道，习近平和波兰总统安杰伊·杜达就两国的政治与经济合作同意建立全面战略伙伴关系，这是北京倡导的“一带一路”计划的一部分。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "安杰伊·杜达",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "自由派大法官斯蒂芬·布雷耶将于30日正式退休，接任他的将是美国历史上第一位非裔女性大法官凯坦吉·布朗·杰克逊。",
+        "spo_list": [
+            {
+                "predicate": "继任者",
+                "subject": "斯蒂芬·布雷耶",
+                "subject_type": "人物",
+                "object": "凯坦吉·布朗·杰克逊",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "男子战某某强行与前妻姜某某发生性关系，已经涉嫌强奸，强奸属于重罪。",
+        "spo_list": [
+            {
+                "predicate": "前妻",
+                "subject": "战某某",
+                "subject_type": "人物",
+                "object": "姜某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "强奸",
+                "subject": "战某某",
+                "subject_type": "人物",
+                "object": "姜某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "毛远耀1912年出生于湖南，自幼年起他就经常听村里老辈们提起叔叔毛泽东带领毛家人闹革命的事情，而自己伯父毛泽浩和父亲毛泽岸也都是叔叔忠实的追随者。",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "毛远耀",
+                "subject_type": "人物",
+                "object": "毛泽岸",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "叔叔",
+                "subject": "毛远耀",
+                "subject_type": "人物",
+                "object": "毛泽东",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "伯父",
+                "subject": "毛远耀",
+                "subject_type": "人物",
+                "object": "毛泽浩",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "当地时间10月29日，绑架并杀死中国公民杨光尧的29岁美国男子安东尼·瓦拉达雷斯在美国地区法院被判监禁16年3个月",
+        "spo_list": [
+            {
+                "predicate": "杀害",
+                "subject": "安东尼·瓦拉达雷斯",
+                "subject_type": "人物",
+                "object": "杨光尧",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "绑架",
+                "subject": "安东尼·瓦拉达雷斯",
+                "subject_type": "人物",
+                "object": "杨光尧",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "由斯里兰卡前总统、反对党领袖马欣达·拉贾帕克萨领导的人民阵线党已经宣布提名前国防和城市发展部常务秘书戈塔巴雅·拉贾帕克萨为该党总统候选人。",
+        "spo_list": [
+            {
+                "predicate": "盟友",
+                "subject": "戈塔巴雅·拉贾帕克萨",
+                "subject_type": "人物",
+                "object": "马欣达·拉贾帕克萨",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "温碧霞和相恋3年的何祖光步入婚姻殿堂，2010年7月她们在内地收养了一名孤儿，并取名何国伦。",
+        "spo_list": [
+            {
+                "predicate": "养子",
+                "subject": "温碧霞",
+                "subject_type": "人物",
+                "object": "何国伦",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "养子",
+                "subject": "何祖光",
+                "subject_type": "人物",
+                "object": "何国伦",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "夫妻",
+                "subject": "温碧霞",
+                "subject_type": "人物",
+                "object": "何祖光",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "    当地时间3月16日，由河南国际承建的纳米比亚东部道路升级项目举行通车典礼，纳米比亚总统哈格·根哥布、工程与运输部部长阿尔菲厄斯·纳鲁塞布、中国驻纳使馆临时代办李南等“重量级”官员悉数到来。",
+        "spo_list": [
+            {
+                "predicate": "出席活动",
+                "subject": "哈格·根哥布",
+                "subject_type": "人物",
+                "object": "李南",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "在听取了林郑月娥近期局势的汇报之后，习近平充分肯定了香港特首和特区政府的工作，并指出止暴制乱、恢复秩序仍然是香港当前最重要的任务。",
+        "spo_list": [
+            {
+                "predicate": "赞赏肯定",
+                "subject": "林郑月娥",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "王蒂澂天生聪慧机智伶俐，兼之鲁迅等名师曾在北京女师任教，因此她受新文化运动、新文学影响颇深，思想和视野愈加开阔。",
+        "spo_list": [
+            {
+                "predicate": "老师",
+                "subject": "王蒂澂",
+                "subject_type": "人物",
+                "object": "鲁迅",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "2003年和弟弟蒋友常回到台湾，合伙创立了橙果设计公司，蒋友柏出任公司CEO。",
+        "spo_list": [
+            {
+                "predicate": "弟弟",
+                "subject": "蒋友柏",
+                "subject_type": "人物",
+                "object": "蒋友常",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "涉密人员刘某参加单位集中学习期间，向同事邹某透露正在阅读一涉密文件，邹某向刘某询问文件内容。刘某虽意识到文件涉密，但心存侥幸，用手机拍摄文件内容，通过微信发给了邹某。",
+        "spo_list": [
+            {
+                "predicate": "同事",
+                "subject": "刘某",
+                "subject_type": "人物",
+                "object": "邹某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "泄密",
+                "subject": "刘某",
+                "subject_type": "人物",
+                "object": "邹某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "早在2014年4月，琼瑶微博致信广电总局，控诉于正新作《宫锁连城》抄袭自己的《梅花烙》。",
+        "spo_list": [
+            {
+                "predicate": "起诉控告",
+                "subject": "琼瑶",
+                "subject_type": "人物",
+                "object": "于正",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侵权",
+                "subject": "于正",
+                "subject_type": "人物",
+                "object": "琼瑶",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "　　据路透社报道，教皇方济各在电文中说，进入中国上空之际，向中国国家主席习近平和中国人民送上良好祝愿，祈求和平。",
+        "spo_list": [
+            {
+                "predicate": "问候祝福",
+                "subject": "方济各",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "福威镖局由林平之的曾祖父林远图所创，其名字含义是「先福后威」。",
+        "spo_list": [
+            {
+                "predicate": "曾祖父",
+                "subject": "林平之",
+                "subject_type": "人物",
+                "object": "林远图",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "百年前，同在1922年加入中国共产党的张昆弟和李维汉，就因深厚的同窗情，谱写了值得后人铭记的人生传奇。",
+        "spo_list": [
+            {
+                "predicate": "同学",
+                "subject": "张昆弟",
+                "subject_type": "人物",
+                "object": "李维汉",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "前夫刘家良去世之后，翁静晶认识了何鸿燊的侄子何猷彪，最终在2019年两个人结婚。",
+        "spo_list": [
+            {
+                "predicate": "夫妻",
+                "subject": "翁静晶",
+                "subject_type": "人物",
+                "object": "何猷彪",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "前夫",
+                "subject": "翁静晶",
+                "subject_type": "人物",
+                "object": "刘家良",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侄子",
+                "subject": "何鸿燊",
+                "subject_type": "人物",
+                "object": "何猷彪",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "伊姆兰·汗表示，马克龙鼓励展示有关漫画，这是在“攻击伊斯兰教”。",
+        "spo_list": [
+            {
+                "predicate": "谴责批判",
+                "subject": "伊姆兰·汗",
+                "subject_type": "人物",
+                "object": "马克龙",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "阿根廷近期即将迎来总统大选，现任总统毛里西奥·马克里与反对派候选人阿尔韦托·费尔南德斯将向总统之位发起最后冲击。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "阿尔韦托·费尔南德斯",
+                "subject_type": "人物",
+                "object": "毛里西奥·马克里",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李德与他的中国妻子萧月华的结合，是一件让红军官兵愤愤不平的事情。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "李德",
+                "subject_type": "人物",
+                "object": "萧月华",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "但是，国王玛哈·哇集拉隆功随即发表公告说，姐姐乌汶叻参选总理“不妥”，王室成员涉足政坛有违宪法。",
+        "spo_list": [
+            {
+                "predicate": "发言提及",
+                "subject": "玛哈·哇集拉隆功",
+                "subject_type": "人物",
+                "object": "乌汶叻",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "曾国藩的孙女曾宪植可是开国元帅叶剑英的妻子，1926年入中央军事政治学校武汉分校女生队，参加北伐。",
+        "spo_list": [
+            {
+                "predicate": "妻子",
+                "subject": "叶剑英",
+                "subject_type": "人物",
+                "object": "曾宪植",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "孙女",
+                "subject": "曾国藩",
+                "subject_type": "人物",
+                "object": "曾宪植",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "阿里巴巴认证员工周某匿名称，自己被男领导（王成文）要求陪商家（张国）喝酒，其被灌醉后遭到猥亵。",
+        "spo_list": [
+            {
+                "predicate": "猥亵",
+                "subject": "王成文",
+                "subject_type": "人物",
+                "object": "周某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "猥亵",
+                "subject": "张国",
+                "subject_type": "人物",
+                "object": "周某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "客户",
+                "subject": "王成文",
+                "subject_type": "人物",
+                "object": "张国",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "    由于江青只给专案组人员看信封，信的内容不让看，对破案非常不利，罗瑞卿向周恩来汇报,于是周恩来亲自找江青谈话。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "江青",
+                "subject_type": "人物",
+                "object": "周恩来",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "11时许，张某采用打耳光，按压身体等暴力行为强行与李某发生性关系。",
+        "spo_list": [
+            {
+                "predicate": "强奸",
+                "subject": "张某",
+                "subject_type": "人物",
+                "object": "李某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "　　应中华人民共和国主席习近平阁下的盛情邀请，摩洛哥王国国王穆罕默德六世陛下于2016年5月11日至12日对中华人民共和国进行国事访问。",
+        "spo_list": [
+            {
+                "predicate": "拜访会见",
+                "subject": "穆罕默德六世",
+                "subject_type": "人物",
+                "object": "习近平",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "如果江启臣能重现当时马英九的表现，顺利与蔡英文进行辩论，其政治力量定将提升不少。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "蔡英文",
+                "subject_type": "人物",
+                "object": "马英九",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "浮雕墙与武科大在2016年建成的校友李四光雕像、2018年建成的创始人张之洞雕像、2019年建成的校友许白昊雕像，共同组成“校友名人园”的园区，是该校党史学习教育、爱国主义教育的重要组成部分。",
+        "spo_list": [
+            {
+                "predicate": "校友",
+                "subject": "张之洞",
+                "subject_type": "人物",
+                "object": "许白昊",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "校友",
+                "subject": "李四光",
+                "subject_type": "人物",
+                "object": "张之洞",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "校友",
+                "subject": "李四光",
+                "subject_type": "人物",
+                "object": "许白昊",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "苏光某拿到毒品后，就由其本人、其堂弟苏某乐以及其女朋友翁某对外秘密销售，并在合浦常乐、石康等地物色和发展毒品分销人员。",
+        "spo_list": [
+            {
+                "predicate": "堂弟",
+                "subject": "苏光某",
+                "subject_type": "人物",
+                "object": "苏某乐",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "情侣",
+                "subject": "苏光某",
+                "subject_type": "人物",
+                "object": "翁某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "后来，林姮怡为蒋友柏生下了一个儿子，一个女儿，一家人其乐融融。",
+        "spo_list": [
+            {
+                "predicate": "丈夫",
+                "subject": "林姮怡",
+                "subject_type": "人物",
+                "object": "蒋友柏",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "江山市杨某某发现葬于江山市山腰处的其曾祖母胡某某和胡某某婆婆祝某某的双心坟墓被挖。",
+        "spo_list": [
+            {
+                "predicate": "婆婆",
+                "subject": "胡某某",
+                "subject_type": "人物",
+                "object": "祝某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "曾祖母",
+                "subject": "杨某某",
+                "subject_type": "人物",
+                "object": "胡某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "塞卢·达莱因·迪亚洛和阿尔法·孔戴的得票领先，进入第二轮竞选。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "阿尔法·孔戴",
+                "subject_type": "人物",
+                "object": "塞卢·达莱因·迪亚洛",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "段正淳的情人王夫人是慕容复的舅妈",
+        "spo_list": [
+            {
+                "predicate": "舅妈",
+                "subject": "王夫人",
+                "subject_type": "人物",
+                "object": "慕容复",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "吴健雄的父亲吴仲裔先生，是1888年（清光绪十四年）出生，吴健雄出生时，他是24岁。",
+        "spo_list": [
+            {
+                "predicate": "生父",
+                "subject": "吴健雄",
+                "subject_type": "人物",
+                "object": "吴仲裔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "被告人解某甲因无力照顾其年迈的父亲解某乙，无力为其弟弟解某丙支付治疗精神疾病的费用，因此投毒杀害了自己的亲人解某乙、解某丙。",
+        "spo_list": [
+            {
+                "predicate": "弟弟",
+                "subject": "解某甲",
+                "subject_type": "人物",
+                "object": "解某丙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "生父",
+                "subject": "解某甲",
+                "subject_type": "人物",
+                "object": "解某乙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "毒害",
+                "subject": "解某甲",
+                "subject_type": "人物",
+                "object": "解某乙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "毒害",
+                "subject": "解某甲",
+                "subject_type": "人物",
+                "object": "解某丙",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "据参考消息1月28日报道，当天凌晨，日本首相菅义伟与美国总统拜登电话会谈，双方确认将强化日美同盟开展密切合作，并且，双方在电话中又一次提到了钓鱼岛。",
+        "spo_list": [
+            {
+                "predicate": "致电通信",
+                "subject": "菅义伟",
+                "subject_type": "人物",
+                "object": "拜登",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "俞明震虽是晚清官员，倾向于变法维新，曾两次亲自带领官费留学生赴日，还尽力让家中子弟出国读书，他的侄子俞大纯和三个外甥陈衡恪、陈隆恪、陈寅恪，都因此成为日本留学生。",
+        "spo_list": [
+            {
+                "predicate": "外甥",
+                "subject": "俞明震",
+                "subject_type": "人物",
+                "object": "陈寅恪",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外甥",
+                "subject": "俞明震",
+                "subject_type": "人物",
+                "object": "陈隆恪",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外甥",
+                "subject": "俞明震",
+                "subject_type": "人物",
+                "object": "陈衡恪",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "侄子",
+                "subject": "俞明震",
+                "subject_type": "人物",
+                "object": "俞大纯",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "伊丽莎白的教师包括英国文艺复兴时期著名的人文主义者罗杰·阿斯坎。",
+        "spo_list": [
+            {
+                "predicate": "老师",
+                "subject": "伊丽莎白",
+                "subject_type": "人物",
+                "object": "罗杰·阿斯坎",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "针对特朗普的这一想法，周日丹麦现任首相梅特·弗雷德里克森在记者会上表示，谈论买卖格陵兰岛是荒谬无稽之谈。",
+        "spo_list": [
+            {
+                "predicate": "发言提及",
+                "subject": "梅特·弗雷德里克森",
+                "subject_type": "人物",
+                "object": "特朗普",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "俄罗斯新闻报道，俄新上任的总理米哈伊尔·米舒斯京向普京保证，俄罗斯将有足够的钱度过这场危机，可以奉陪沙特打价格战6-7月。",
+        "spo_list": [
+            {
+                "predicate": "交流讨论",
+                "subject": "米哈伊尔·米舒斯京",
+                "subject_type": "人物",
+                "object": "普京",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "作为成龙的外甥，董又霖在娱乐圈不说如鱼得水，但肯定多少是受到庇护的。",
+        "spo_list": [
+            {
+                "predicate": "外甥",
+                "subject": "成龙",
+                "subject_type": "人物",
+                "object": "董又霖",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外甥",
+                "subject": "成龙",
+                "subject_type": "人物",
+                "object": "董又霖",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "上个月，高圆圆的公公赵树海在接受媒体专访时，谈到儿子赵又廷和媳妇高圆圆的“又圆配”婚后生活，还大赞高圆圆无可挑剔，心疼她太瘦了。",
+        "spo_list": [
+            {
+                "predicate": "公公",
+                "subject": "高圆圆",
+                "subject_type": "人物",
+                "object": "赵树海",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "虽然蒋瑶光结过婚，还带着两个孩子，但是陆久之并不嫌弃 ，他被蒋瑶光的温柔贤惠打动了，后来，两人成婚了，从此人们称陆久之为“蒋介石女婿”。",
+        "spo_list": [
+            {
+                "predicate": "夫妻",
+                "subject": "蒋瑶光",
+                "subject_type": "人物",
+                "object": "陆久之",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女婿",
+                "subject": "蒋介石",
+                "subject_type": "人物",
+                "object": "陆久之",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "进行对撞实验钱思进，中国著名原子核物理学家钱三强与何泽慧的小儿子。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "何泽慧",
+                "subject_type": "人物",
+                "object": "钱思进",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "儿子",
+                "subject": "钱三强",
+                "subject_type": "人物",
+                "object": "钱思进",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "夫妻",
+                "subject": "钱三强",
+                "subject_type": "人物",
+                "object": "何泽慧",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "《秦时明月》卫庄盖聂两人是同门师兄弟，按理说同门师兄弟感情应该非常好才对，哪些卫庄见到盖聂之后就跟欠他几百万一样拼命追杀。",
+        "spo_list": [
+            {
+                "predicate": "同门",
+                "subject": "卫庄",
+                "subject_type": "人物",
+                "object": "盖聂",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "李国杰是晚清重臣李鸿章的长孙，李经述的长子，承袭了李鸿章一等侯爵的爵位，中华民国成立后，李国杰任参政院参政。",
+        "spo_list": [
+            {
+                "predicate": "儿子",
+                "subject": "李经述",
+                "subject_type": "人物",
+                "object": "李国杰",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "孙子",
+                "subject": "李鸿章",
+                "subject_type": "人物",
+                "object": "李国杰",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "林某向上饶县公安局刑警大队报案称：7月30日夜晚至次日凌晨，她在上饶县石人乡政府自然资源所办公楼内，先后被办事员郭瑜、副所长余先民强奸。",
+        "spo_list": [
+            {
+                "predicate": "强奸",
+                "subject": "郭瑜",
+                "subject_type": "人物",
+                "object": "林某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "强奸",
+                "subject": "余先民",
+                "subject_type": "人物",
+                "object": "林某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "梁某甲与黄某某发现邻居闭某某的未婚妻梁某乙在家，遂通过欺骗梁某乙，拿到闭某某的手机和社会保障卡，黄某某伙同梁某甲通过闭某某的支付宝账户、新注册的微信，陆续将闭某某社会保障卡里的钱盗取出来，总共盗取了15451.34元。",
+        "spo_list": [
+            {
+                "predicate": "邻居",
+                "subject": "梁某甲",
+                "subject_type": "人物",
+                "object": "闭某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "同伙",
+                "subject": "黄某某",
+                "subject_type": "人物",
+                "object": "梁某甲",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "盗窃",
+                "subject": "梁某甲",
+                "subject_type": "人物",
+                "object": "闭某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "盗窃",
+                "subject": "黄某某",
+                "subject_type": "人物",
+                "object": "闭某某",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "未婚妻",
+                "subject": "闭某某",
+                "subject_type": "人物",
+                "object": "梁某乙",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "邻居",
+                "subject": "黄某某",
+                "subject_type": "人物",
+                "object": "闭某某",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "刘蟾，1949年出生于上海，刘海粟和夏伊乔的幼女。",
+        "spo_list": [
+            {
+                "predicate": "女儿",
+                "subject": "夏伊乔",
+                "subject_type": "人物",
+                "object": "刘蟾",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "夫妻",
+                "subject": "刘海粟",
+                "subject_type": "人物",
+                "object": "夏伊乔",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "女儿",
+                "subject": "刘海粟",
+                "subject_type": "人物",
+                "object": "刘蟾",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "严格的来说，黄大炜的亲外公应该是张学良的弟弟张学森，不过他的母亲幼年时被张学森过继给了张学良，所以张学良也是他外公。",
+        "spo_list": [
+            {
+                "predicate": "弟弟",
+                "subject": "张学良",
+                "subject_type": "人物",
+                "object": "张学森",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外公",
+                "subject": "黄大炜",
+                "subject_type": "人物",
+                "object": "张学良",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "外公",
+                "subject": "黄大炜",
+                "subject_type": "人物",
+                "object": "张学森",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "新华社维也纳５月２３日电奥地利内政部长索博特卡２３日宣布总统选举第二轮投票官方计票结果，前绿党领导人亚历山大·范德贝伦赢得约５０．３％的选票，险胜右翼民粹主义政党奥地利自由党候选人诺贝特·霍费尔，当选新一届奥地利总统。",
+        "spo_list": [
+            {
+                "predicate": "竞争对手",
+                "subject": "诺贝特·霍费尔",
+                "subject_type": "人物",
+                "object": "诺贝特·霍费尔",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "朱某某与同居委会居民商某甲系邻居，2020年3月25日17时许，因商某甲家修缮房顶出檐问题，朱某某、商某甲双方发生争执。",
+        "spo_list": [
+            {
+                "predicate": "邻居",
+                "subject": "朱某某",
+                "subject_type": "人物",
+                "object": "商某甲",
+                "object_type": "人物"
+            },
+            {
+                "predicate": "冲突纠纷",
+                "subject": "朱某某",
+                "subject_type": "人物",
+                "object": "商某甲",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "袁汤（公元67年—153年），字仲河，河南汝阳（今河南商水西南人），名臣袁安之孙，其家族为东汉时期的汝南袁氏。",
+        "spo_list": [
+            {
+                "predicate": "孙子",
+                "subject": "袁安",
+                "subject_type": "人物",
+                "object": "袁汤",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "退休后的刘西玉把接送孙女上学当成了一件大事，孙女刘仟一读的是九曲小学，而他们家住在独树头社区，每天早上老两口骑着三轮车将孙女送到校，下午再去准时接回来。",
+        "spo_list": [
+            {
+                "predicate": "孙女",
+                "subject": "刘西玉",
+                "subject_type": "人物",
+                "object": "刘仟",
+                "object_type": "人物"
+            }
+        ]
+    },
+    {
+        "text": "令狐冲道：“这位是我师父，华山派掌门岳先生……”",
+        "spo_list": [
+            {
+                "predicate": "老师",
+                "subject": "令狐冲",
+                "subject_type": "人物",
+                "object": "岳先生",
+                "object_type": "人物"
+            }
+        ]
+    }
+]
